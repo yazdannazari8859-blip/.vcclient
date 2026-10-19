@@ -1,0 +1,2 @@
+# .vcclient
+VC client 
